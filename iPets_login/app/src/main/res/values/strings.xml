@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iPets_login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">iPets</string>
+    <string name="name">account</string>
+    <string name="account">account</string>
+    <string name="password">password</string>
+    <string name="button">login</string>
+    <string name="forgot">忘記密碼？</string>
+</resources>
